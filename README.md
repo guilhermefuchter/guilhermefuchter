@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Fuchter dos Santos</h1>
 <h3 align="center">Iam a begginer, but i accept challenges</h3>
-- 🌱 I’m currently learning **in my first graduation on soft engineer**
+- 🌱 I’m currently learningin my graduation on soft engineer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guilherme.fuchter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme.fuchter" height="30" width="40" /></a>
