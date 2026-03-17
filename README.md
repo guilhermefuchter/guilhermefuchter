@@ -1,12 +1,21 @@
 <h1 align="center">I'm Guilherme Fuchter</h1>
 
-- working [Software Developer / Desenvolvedor de Software 1 Starian](https://www.projuris.com.br/adv/)
+- Software Developer at Starian | Projuris Group
+Building and optimizing web solutions focused on performance, automation, and lead conversion.
 
-- learning **Software Engineer**
+Currently expanding my skills as a Software Engineer, with strong experience in:
 
-- Ask me about **project automations with tools**
+• Process automation using Make, AI tools, and integrations
+• HubSpot automation and lead conversion optimization
+• Web development and system integrations
+• GitLab workflows and version control
 
-- How to reach me **guifsantoss1@gmail.com**
+I also work with automation-driven projects, connecting platforms and building intelligent workflows to improve business efficiency.
+
+📩 Ask me about: process automation with Make, AI integrations, HubSpot workflows, and lead conversion strategies.
+
+📬 How to reach me:
+guifsantoss1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
