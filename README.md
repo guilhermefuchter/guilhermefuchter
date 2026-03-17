@@ -1,6 +1,6 @@
 <h1 align="center">I'm Guilherme Fuchter</h1>
 
-- Software Developer at Starian | Projuris Group
+Software Developer at Starian | Projuris Group
 Building and optimizing web solutions focused on performance, automation, and lead conversion.
 
 Currently expanding my skills as a Software Engineer, with strong experience in:
@@ -12,7 +12,7 @@ Currently expanding my skills as a Software Engineer, with strong experience in:
 
 I also work with automation-driven projects, connecting platforms and building intelligent workflows to improve business efficiency.
 
-📩 Ask me about: process automation with Make, AI integrations, HubSpot workflows, and lead conversion strategies.
+ Ask me about: process automation with Make, AI integrations, HubSpot workflows, and lead conversion strategies.
 
 📬 How to reach me:
 guifsantoss1@gmail.com
