@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Guilherme Fuchter</h1>
-<h3 align="center">Web developer</h3>
+<h1 align="center">I'm Guilherme Fuchter</h1>
 
-- I’m currently working on [Front/back end projects](https://www.projuris.com.br/adv/)
+- working [Software Developer / Desenvolvedor de Software 1 Starian](https://www.projuris.com.br/adv/)
 
-- I’m currently learning **Software Engineer**
+- learning **Software Engineer**
 
 - Ask me about **project automations with tools**
 
